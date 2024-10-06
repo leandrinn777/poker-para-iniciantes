@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;  
+}
+
+p{
+    font-size: 25px;
+}
+a{
+   font-size: 20px;
+}
+h2{
+    color: red;
+}
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
